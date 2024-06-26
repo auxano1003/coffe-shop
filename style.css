@@ -149,5 +149,11 @@ li:hover{
 	border: none;
 	cursor: pointer;
 }
+/* the section styling begins here */
+section{
+	width: 100%;
+	height: 500px;
+	background-color: hsla(0, 59%, 41%, 0.161);
+}
 
 
