@@ -73,3 +73,41 @@ li:hover{
 	border-radius: 20px;
 
 }
+.center{
+	width: 350px;
+	height: 280px;
+	border: 1px solid black;
+	position: relative;
+	top: 25%;
+	left: 30%;
+}
+.about-company{
+	font-weight: lighter;
+	color: hwb(39 45% 9%);
+	text-align: center;
+	font-size: 14px;
+	letter-spacing: 4px;
+	padding-top: 20px;
+}
+.heading-company{
+	color: #fff;
+	font-size: 2em;
+	text-align: center;
+	letter-spacing: 4px;
+	font-family: sans-serif;
+	font-weight: bold;
+	padding-top: 10px;
+}
+.pointer{
+	color: hwb(0 100% 25%);
+	text-align: center;
+	letter-spacing: 3px;
+	font-size: 14px;
+	font-family: sans-serif;
+	font-weight: bolder;
+	padding-top:10px;
+	
+}
+
+
+
