@@ -161,7 +161,7 @@ section{
 .replica-section{
 	width: 30%;
 	height: 400px;
-	border: 1px solid #000;
+	/* border: 1px solid #000; */
 	border-radius: 20px;
 }
 .left-twins{
@@ -179,6 +179,39 @@ section{
 	word-spacing: 2px;
 
 }
+.link a{
+	color: orange;
+	font-size:12px;
+	font-weight: lighter;
+	text-decoration: none;
+	/* margin-top: 40px; */
+	padding-top: 40px;
+	display: block;
+}
+.logo-head{
+	color:#fff;
+	font-size: 20px;
+	font-family:cursive;
+
+}
+.above-word , .beneath-word{
+	padding-top: 20px;
+	color:#ffffffd6;
+	font-family: cursive;
+
+}
+.meet-barri{
+	width: 100px;
+	height: 30px;
+	border-radius: 60px;
+	font-size:12px;
+	font-weight: bolder;
+	background-color: hsla(0, 95%, 8%, 0.65);
+	color: #fff;
+	margin-top: 40px;
+	
+}
+
 
 
 
