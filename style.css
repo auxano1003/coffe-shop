@@ -142,7 +142,7 @@ li:hover{
 }
 .left-hand:hover{
 	background-color: orange;
-	color: #fff;
+	color: #000;
 	font-size: 12px;
 	font-weight: bold;
 	font-family: sans-serif;
@@ -153,7 +153,32 @@ li:hover{
 section{
 	width: 100%;
 	height: 500px;
-	background-color: hsla(0, 59%, 41%, 0.161);
+	background-color: hsla(0, 95%, 8%, 0.65);
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
 }
+.replica-section{
+	width: 30%;
+	height: 400px;
+	border: 1px solid #000;
+	border-radius: 20px;
+}
+.left-twins{
+	background-image: url(./images/happy-loving-couple-bakers-drinking-coffee-looking-notebook.jpg);
+	background-position: contain;
+	background-size: 100% 400px;
+}
+.insider-word{
+	margin-top: 19rem;
+	color: hwb(0 64% 6%);
+	font-weight: bolder;
+	font-size: 18px;
+	font-family: cursive;
+	padding-left: 40px;
+	word-spacing: 2px;
+
+}
+
 
 
