@@ -223,15 +223,23 @@ main{
 	background-color: rgba(244, 150, 150, 0.616);
 	display: flex;
 	justify-content: space-between;
+	align-items: center;
 
 }
 .four-cousins{
-	width: 23%;
-	height: 300px;
-	border-radius:50px;
-	background-color:red;
+	width: 300px;
+	height: 350px;
+	border-radius:20px;
+	/* background-color:red; */
 	border: 2px solid#000;
-
+}
+.one{
+	background-image: url(./images/senior-man-white-sweater-eyeglasses.jpg);
+	background-size: 100% 100%;
+	
+}
+.two{
+	
 }
 
 
