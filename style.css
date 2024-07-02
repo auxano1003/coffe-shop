@@ -229,9 +229,10 @@ main{
 
 }
 .four-cousins{
-	width: 300px;
-	height: 350px;
+	width: 250px;
+	height: 300px;
 	border-radius:20px;
+	position: relative;
 	/* background-color:red; */
 	/* border: 2px solid#000; */
 }
@@ -252,7 +253,47 @@ main{
 	background-image: url(./images/smiley-business-woman-working-cashier.jpg);
 	background-size: 100% 100%;
 }
-
+.interior-info{
+	width: 150px;
+	height: 30px;
+	/* border: 1px solid red; */
+	display: flex;
+	justify-content: space-between;
+	position: absolute;
+	top: 65%;
+	margin-left: 20px;
+}
+.title-name{
+	color: #fff;
+	font-size: 18px;
+	font-family: sans-serif;
+	font-weight: bold;
+	padding: 4px;
+}
+.boss{
+	background-color: #B68751;
+	padding: 5px 10px;
+	border-radius: 20px;
+	color: #fff;
+	font-size: 12px;
+	font-family: cursive;
+}
+.boss:hover{
+	background-color: transparent;
+	color: #000;
+	cursor: pointer;
+	font-size: 14px;
+	font-family: sans-serif;
+}
+.inside-adv{
+	position: absolute;
+	top: 80%;
+	padding-left: 20px;
+	color: #fff;
+	font-size: 14px;
+	font-weight: bold;
+	font-family: sans-serif;
+}
 
 
 
