@@ -280,7 +280,7 @@ main{
 }
 .boss:hover{
 	background-color: transparent;
-	color: #000;
+	color: hsl(32, 67%, 76%);
 	cursor: pointer;
 	font-size: 14px;
 	font-family: sans-serif;
