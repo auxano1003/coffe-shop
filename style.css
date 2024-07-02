@@ -311,6 +311,30 @@ article{
 	border-radius: 20px;
 
 }
+.little-pointer{
+	font-size: 13px;
+	color: orange;
+	font-family: cursive;
+	text-align: center;
+	font-weight: light;
+}
+.pointer-heading{
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	color: #fff;
+	padding-top: 20px;
+}
+table{
+	width: 70%;
+	height: 250px;
+	border:1px solid #000;
+	margin: 30px 30px;
+}
+th{
+	
+}
+
 
 
 
