@@ -331,8 +331,12 @@ table{
 	border:1px solid #000;
 	margin: 30px auto;
 }
-th{
+td{
+	padding: 10px;
+	border-bottom: 1px solid #000;
+	background-color: red;
 	
+
 }
 
 
