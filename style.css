@@ -340,6 +340,10 @@ tr{
 td{
 	color: orange;
 }
+tr:first-child{
+	color: #fff;
+	
+}
 
 
 
