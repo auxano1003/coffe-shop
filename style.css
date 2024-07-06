@@ -340,8 +340,10 @@ tr{
 td{
 	color: orange;
 }
-table:first-child{
+td:first-child{
 	color: #fff;
+	background-color: brown;
+	margin: 5px;
 
 }
 
