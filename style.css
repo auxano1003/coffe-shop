@@ -306,7 +306,7 @@ article{
 .transparent-twinny{
 	width: 30%;
 	height: 400px;
-	border: 1px solid #000;
+	/* border: 1px solid #000; */
 	background-color: transparent;
 	border-radius: 20px;
 
@@ -328,26 +328,14 @@ article{
 table{
 	width: 70%;
 	height: 250px;
-	border:1px solid #000;
+	/* border:1px solid #000; */
 	margin: 30px auto;
 }
 tr{
 	padding: 10px;
-	border-bottom: 1px solid #000;
+	/* border-bottom: 1px solid #000; */
 	background-color: transparent;
 	
 }
-td{
-	color: orange;
-}
-td:first-child{
-	color: #fff;
-	background-color: brown;
-	margin: 5px;
-
-}
-
-
-
 
 
